@@ -959,6 +959,14 @@
       "created_at": "2024-01-05T20:43:23Z",
       "repoId": 570065919,
       "pullRequestNo": 195
+    },
+    {
+      "name": "talesam",
+      "id": 981368,
+      "comment_id": 1892433341,
+      "created_at": "2024-01-15T16:00:53Z",
+      "repoId": 675557635,
+      "pullRequestNo": 54
     }
   ]
 }
