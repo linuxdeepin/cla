@@ -39,3 +39,5 @@ Subject to the terms and conditions of this Agreement, You hereby grant to Unio
 9.You agree that the Projects are under no obligation to accept and include Your Contribution.
 
 10.This CLA shall be made in English and Chinese, and the Chinese version shall prevail.
+//////////////////////////////////////////////////////////////
+#I have read the CLA Document and I hereby sign the CLA. Owens 
