@@ -1263,6 +1263,14 @@
       "created_at": "2025-05-28T17:40:08Z",
       "repoId": 124356142,
       "pullRequestNo": 2877
+    },
+    {
+      "name": "yurchor",
+      "id": 2255859,
+      "comment_id": 2994084894,
+      "created_at": "2025-06-22T09:49:16Z",
+      "repoId": 14165745,
+      "pullRequestNo": 2421
     }
   ]
 }
